@@ -2,15 +2,15 @@ html {
     font-family: 'Lato', sans-serif;
 }
 .navbar {
-    background: #222;
-    outline: white;
+    background: #D3D3D3;
+    outline: black;
     border-color: transparent;
 }
 
 .jumbotron {
     width: 100%;
     height: 700px;
-    background-image: url(../nebula.jpg);
+    background-image: url("nebula.jpg");
     background-size: cover;
     background-position: center top;
     top: 0;
