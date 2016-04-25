@@ -1,0 +1,85 @@
+html {
+    font-family: 'Lato', sans-serif;
+}
+.navbar {
+    background: #222;
+    outline: white;
+    border-color: transparent;
+}
+
+.jumbotron {
+    width: 100%;
+    height: 700px;
+    background-image: url(../images/background-nashville1.jpg);
+    background-size: cover;
+    background-position: center top;
+    top: 0;
+    left: 0;
+    margin-bottom: -5%;
+}
+
+#jumboContents {
+    margin-top: 18%;
+}
+
+.jumbotron h1,p {
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+
+.jumbotron p {
+    margin-top: 40px;
+}
+
+.jumbotron button {
+    margin-top: 60px;
+    background: transparent;
+    border-color: white;
+}
+
+.jumbotron button:hover {
+    background: white;
+    color: black;
+}
+
+.jumbotron button:active {
+    margin-top: 60px;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+
+.jumbotron button:visited {
+    margin-top: 60px;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+
+.jumbotron button:focus {
+    margin-top: 60px;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+
+#about {
+    background-color: #D3D3D3;
+}
+
+#about img {
+    width: 50%;
+    float: right;
+}
+
+#aboutContent {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+#jButton {
+    background-color: #D3D3D3;
+}
