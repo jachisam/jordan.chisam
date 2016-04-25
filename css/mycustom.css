@@ -96,38 +96,23 @@ html {
     float: right;
 }
 
-#interests {
-    background-color: #222;
-}
-
-#interestsContents {
-    padding-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding-bottom: 10%;
-    color: white;
-}
-
-#washU {
-    filter: grayscale(100%);
-}
-
-#extracurriculars {
-    background-color: #7F7E7E;
-}
-
-#extracurricularsContent {
-    padding-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding-bottom: 10%;
-}
-
 #experience {
-    background-color: #222;
+    background-color: #D3D3D3;
 }
 
-#experienceContents {
+#experienceInfo {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+    color: black;
+}
+
+#astronomy {
+    background-color: #98AFC7;
+}
+
+#insideAstronomy {
     padding-top: 10%;
     margin-left: 10%;
     margin-right: 10%;
@@ -135,9 +120,19 @@ html {
     color: white;
 }
 
-
-#contact {
+#music {
     background-color: #D3D3D3;
+}
+
+#insideMusic {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+    color: white;
+}
+#contact {
+    background-color: #98AFC7;
 }
 
 #contactContent {
