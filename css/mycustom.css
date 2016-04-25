@@ -84,3 +84,14 @@ html {
 #jButton {
     background-color: #D3D3D3;
 }
+
+#contact {
+    background-color: #D3D3D3;
+}
+
+#contactContent {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+}
