@@ -2,10 +2,10 @@ html {
     
 }
 .navbar {
-    background: #989898;
+    background: #D3D3D3;
     outline: black;
     border-color: transparent;
-    color: black;
+    color: white;
 }
 
 .jumbotron {
