@@ -74,11 +74,6 @@ html {
     color: black;
 }
 
-#about img {
-    width: 50%;
-    float: right;
-}
-
 #aboutPosition {
     padding-top: 10%;
     margin-left: 10%;
@@ -98,7 +93,7 @@ html {
 
 #education img {
     width: 50%;
-    float: center;
+    float: right;
 }
 
 #interests {
