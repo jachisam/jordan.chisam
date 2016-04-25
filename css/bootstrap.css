@@ -8,7 +8,7 @@ html {
   font-family: sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: white;    // Changed
+  color: white;   
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
