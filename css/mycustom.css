@@ -96,6 +96,11 @@ html {
     padding-bottom: 10%;
 }
 
+#education img {
+    width: 50%;
+    float: left;
+}
+
 #interests {
     background-color: #222;
 }
