@@ -65,6 +65,10 @@ html {
     color: white;
 }
 
+#jButton {
+    background-color: #D3D3D3;
+}
+
 .aboutMe {
     background-color: #D3D3D3;
 }
@@ -80,10 +84,94 @@ html {
     margin-right: 10%;
 }
 
-
-#jButton {
-    background-color: #D3D3D3;
+#education {
+    background-color: #EDB8FA;
 }
+
+#educationStuff {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+}
+
+#interests {
+    background-color: #222;
+}
+
+#interestsContents {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+    color: white;
+}
+
+#backgroundaudio {
+  display: block;
+  position: fixed;
+  bottom: -43px;
+  left: 5px;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+ }
+ #backgroundaudio:hover {
+  bottom: 0;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+ }
+ #backgroundaudio audio {
+  background: #ffffff;
+  padding: 5px;
+  display: table-cell;
+  vertical-align: middle;
+  height: 43px;
+  z-index: 9998;
+ }
+ #backgroundaudio i {
+  font-size: 40px;
+  display: block;
+  background: #ffffff;
+  padding: 5px;
+  width: 50px;
+  float: none;
+  margin-bottom: -1px;
+  z-index: 9999;
+ }
+
+#washU {
+    filter: grayscale(100%);
+}
+
+#extracurriculars {
+    background-color: #7F7E7E;
+}
+
+#extracurricularsContent {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+}
+
+#experience {
+    background-color: #222;
+}
+
+#experienceContents {
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10%;
+    color: white;
+}
+
 
 #contact {
     background-color: #D3D3D3;
