@@ -1,5 +1,5 @@
 html {
-
+    font-family: 'Quicksand', sans-serif;
 }
 .navbar {
     background: #D3D3D3;
@@ -18,7 +18,7 @@ html {
     margin-bottom: -5%;
 }
 
-#jumboContents {
+#insideJumbo {
     margin-top: 18%;
 }
 
