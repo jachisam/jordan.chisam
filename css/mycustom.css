@@ -10,7 +10,7 @@ html {
 .jumbotron {
     width: 100%;
     height: 700px;
-    background-image: url("../nebula.jpg");
+    background-image: url("../NasaImages/hubbleBubble.jpg");
     background-size: cover;
     background-position: center top;
     top: 0;
