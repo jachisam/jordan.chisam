@@ -37,38 +37,6 @@ big {
     margin-top: 40px;
 }
 
-.jumbotron button {
-    margin-top: 60px;
-    background: transparent;
-    border-color: white;
-}
-
-.jumbotron button:hover {
-    background: white;
-    color: black;
-}
-
-.jumbotron button:active {
-    margin-top: 60px;
-    background: transparent;
-    border-color: white;
-    color: white;
-}
-
-.jumbotron button:visited {
-    margin-top: 60px;
-    background: transparent;
-    border-color: white;
-    color: white;
-}
-
-.jumbotron button:focus {
-    margin-top: 60px;
-    background: transparent;
-    border-color: white;
-    color: white;
-}
-
 #jButton {
     background-color: #D3D3D3;
     float: center;
