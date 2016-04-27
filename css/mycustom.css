@@ -23,6 +23,8 @@ html {
 .jumbotron img {
     float: center;
     width: 1200px;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
 #insideJumbo {
