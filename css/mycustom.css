@@ -11,7 +11,8 @@ html {
 .jumbotron {
     width: 100%;
     height: 700px;
-    background-image: url("../washujumbo.jpg");
+    background-color: #85755D;
+    background-image: url("../cursive.png");
     background-size: cover;
     background-position: center top;
     top: 0;
@@ -50,7 +51,7 @@ html {
 }
 
 #education {
-    background-color: #1A519F;
+    background-color: #457B2D;
 }
 
 #educationStuff {
@@ -78,7 +79,7 @@ html {
 }
 
 #astronomy {
-    background-color: #1A519F;
+    background-color: #457B2D;
 }
 
 #insideAstronomy {
@@ -101,7 +102,7 @@ html {
     color: white;
 }
 #contact {
-    background-color: #1A519F;
+    background-color: #457B2D;
 }
 
 #contactContent {
