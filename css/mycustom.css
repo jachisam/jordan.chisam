@@ -11,8 +11,8 @@ html {
 .jumbotron {
     width: 100%;
     height: 700px;
-    /* background-image: url("../background.jpg"); */
-    background-color: #34495E;
+    background-image: url("../myName.png");
+    background-color: #D3D3D3;
     background-size: cover;
     background-position: center top;
     top: 0;
@@ -40,7 +40,7 @@ html {
 }
 
 #aboutMe {
-    background-color: #D3D3D3;
+    background-color: #34495E;
     color: black;
 }
 
@@ -51,7 +51,7 @@ html {
 }
 
 #education {
-    background-color: #34495E;
+    background-color: #D3D3D3;
 }
 
 #educationStuff {
@@ -67,7 +67,7 @@ html {
 }
 
 #experience {
-    background-color: #D3D3D3;
+    background-color: #34495E;
 }
 
 #experienceInfo {
@@ -79,7 +79,7 @@ html {
 }
 
 #astronomy {
-    background-color: #34495E;
+    background-color: #D3D3D3;
 }
 
 #insideAstronomy {
@@ -91,7 +91,7 @@ html {
 }
 
 #music {
-    background-color: #D3D3D3;
+    background-color: #34495E;
 }
 
 #insideMusic {
@@ -102,7 +102,7 @@ html {
     color: white;
 }
 #contact {
-    background-color: #34495E;
+    background-color: #D3D3D3;
 }
 
 #contactContent {
