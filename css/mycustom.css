@@ -19,7 +19,7 @@ html {
     left: 0;
     margin-bottom: -5%; 
 }
-
+/*
 .jumbotron img {
     vertical-align :middle;
     margin: auto;
@@ -27,16 +27,25 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-} 
+} */
 
 #insideJumbo {
     margin-top: 18%;
 }
 
-div.container1 {
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle 
+div.container4 {
+    height: 10em;
+    position: relative 
+    
+}
+div.container4 img {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+    
 }
 
 .jumbotron h1,p {
