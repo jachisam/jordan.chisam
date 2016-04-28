@@ -33,7 +33,7 @@ html {
     margin-top: 18%;
 }
 
-DIV.container1 {
+div.container1 {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle 
