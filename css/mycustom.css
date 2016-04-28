@@ -9,22 +9,22 @@ html {
 }
 
 .jumbotron {
-    width: 100%;
+   /*  width: 100%;
     height: 400px;
     /* background-image: url("../myName1.png"); */
     background-color: #D3D3D3;
-    background-size: cover;
+    /* background-size: cover;
     background-position: center top;
     top: 0;
     left: 0;
-    margin-bottom: -5%;
+    margin-bottom: -5%; */
 }
 
-.jumbotron img {
+/* .jumbotron img {
     float: center;
     width: 1200px;
     padding-bottom: 50%;
-}
+} */
 
 #insideJumbo {
     margin-top: 18%;
