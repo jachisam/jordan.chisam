@@ -41,7 +41,7 @@ div.container4 {
 div.container4 img {
     margin: 0;
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
