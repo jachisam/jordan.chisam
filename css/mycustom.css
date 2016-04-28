@@ -33,6 +33,12 @@ html {
     margin-top: 18%;
 }
 
+DIV.container1 {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle 
+}
+
 .jumbotron h1,p {
     text-align: center;
     vertical-align: middle;
